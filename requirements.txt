@@ -1,0 +1,5 @@
+https://github.com/hyperskill/hs-test-python/archive/release.tar.gz
+pip>=20.2.4
+pandas==1.1.4
+xlrd==1.2.0
+

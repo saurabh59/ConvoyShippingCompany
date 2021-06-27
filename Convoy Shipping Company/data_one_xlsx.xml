@@ -1,0 +1,8 @@
+<convoy>
+	<vehicle>
+		<vehicle_id>8</vehicle_id>
+		<engine_capacity>400</engine_capacity>
+		<fuel_consumption>50</fuel_consumption>
+		<maximum_load>30</maximum_load>
+	</vehicle>
+</convoy>
